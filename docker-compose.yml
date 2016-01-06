@@ -1,0 +1,3 @@
+net-toolbox:
+  image: mrogaski/net-toolbox:latest
+

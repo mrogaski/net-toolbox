@@ -1,0 +1,11 @@
+autodetach on
+nethack on
+deflogin on
+ 
+bind h hardcopy
+hardcopy_append on
+hardcopydir $HOME/capture
+logfile $HOME/capture/screenlog.%n
+bindkey -k k1 hardcopy
+bindkey -k k2 log 
+
